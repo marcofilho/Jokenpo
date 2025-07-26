@@ -1,7 +1,4 @@
-﻿using System.Net.Http;
-using System.Threading;
-
-namespace JokenpoGame
+﻿namespace JokenpoGame
 {
 
     public class Jokenpo
